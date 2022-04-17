@@ -1,0 +1,14 @@
+[
+    {
+        "name": "welcome",
+        "route": "/"
+    },
+    {
+        "name": "health",
+        "route": "/health"
+    },
+    {
+        "name": "content",
+        "route": "/content"
+    }
+]
