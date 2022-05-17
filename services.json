@@ -10,5 +10,13 @@
     {
         "name": "content",
         "route": "/content"
+    },
+    {
+        "name": "events",
+        "route": "/events"
+    },
+    {
+        "name": "companies",
+        "route": "/companies"
     }
 ]
