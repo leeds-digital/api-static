@@ -1,26 +1,27 @@
-[
-    {
-        "name": "welcome",
-        "route": "/"
-    },
-    {
-        "name": "health",
-        "route": "/health"
-    },
-    {
-        "name": "content",
-        "route": "/content"
-    },
-    {
-        "name": "jobs",
-        "route": "/jobs"
-    },
-    {
-        "name": "events",
-        "route": "/events"
-    },
-    {
-        "name": "companies",
-        "route": "/companies"
-    }
-]
+{
+    "base_url": "https://api.leeds.digital",
+    "health_url": "https://api.leeds.digital/health",
+    "services": [
+        {
+            "name": "welcome",
+            "route": "/"
+        },
+        {
+            "name": "content",
+            "route": "/content"
+        },
+        {
+            "name": "jobs",
+            "route": "/jobs"
+        },
+        {
+            "name": "events",
+            "route": "/events"
+        },
+        {
+            "name": "companies",
+            "route": "/companies"
+        }
+    
+    ]
+}
