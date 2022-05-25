@@ -12,6 +12,10 @@
         "route": "/content"
     },
     {
+        "name": "jobs",
+        "route": "/jobs"
+    },
+    {
         "name": "events",
         "route": "/events"
     },
